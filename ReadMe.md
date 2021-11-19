@@ -18,6 +18,8 @@ Related to the assignment,
 
 -> With the ScreenShot Class you can add screenshot every report type.For see the ScreenShots you need to identfy path which is inside the ScreenShot Class.
 
+-> You can give the test flow tag inside the BuildAppRunner class.And you can execute the test case with TESTNG/CIBuild.xml.(Right Click and Run)
+
 -I tried to do my best. I hope you will like this assignment.If you have a question or anyth. please contact me.
 
 Thanks for giving me this opportunity.
